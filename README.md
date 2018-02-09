@@ -19,3 +19,4 @@ Concepts applied include
 4. Use of advanced learning algorithms
 5. Debugging the model using learning curves - Diagnosing Bias vs. Variance
 6. Train/Cross Validation/Test set application
+7. Others
