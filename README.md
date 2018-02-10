@@ -13,12 +13,12 @@ Exercises include algorithms such as
 5. K-means Clustering
 
 Concepts applied include
-1. Vectorize the code whereever possible 
+1. Vectorize the code whenever possible 
 2. Feature Scaling - When to use
 3. Regularization - Application, Finding the optimim value
 4. Cost Function and Gradient calculations
 5. Use of advanced learning algorithms
 6. Debugging the model using learning curves - Diagnosing Bias vs. Variance
 7. Train/Cross Validation/Test set application
-8. Dimensionality Reduction
+8. Dimensionality Reduction - PCA (Principal Component Analysis)
 
