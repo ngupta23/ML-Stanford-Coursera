@@ -13,7 +13,7 @@ Exercises include algorithms such as
 5. K-means Clustering
 
 Concepts applied include
-1. Vectorize the code whenever possible 
+1. Vectorize the code whenever possible - especially in ex7 (image compression and clustering). The difference in execution between non vectorized and vectorized was immense. Totally worth the time to implement the vectorized code! 
 2. Feature Scaling - When to use
 3. Regularization - Application, Finding the optimim value
 4. Cost Function and Gradient calculations
