@@ -5,14 +5,14 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 This reporsitoy includes all the programming exercises from the course.
 The programs were written in Octave
 
-Exercises include algorithms such as
+** Exercises include following algorithms **
 1. Linear Regression
 2. Logistic Regression
 3. Neural Networks
 4. Support Vector Machines
 5. K-means Clustering
 
-Concepts applied include
+** Concepts applied **
 1. Vectorize the code whenever possible - especially in ex7 (image compression and clustering). The difference in execution between non vectorized and vectorized was immense. Totally worth the time to implement the vectorized code! 
 2. Feature Scaling - When to use
 3. Regularization - Application, Finding the optimim value
