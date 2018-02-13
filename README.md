@@ -11,6 +11,8 @@ The programs were written in Octave
 3. Neural Networks
 4. Support Vector Machines
 5. K-means Clustering
+6. Anomaly Detection
+7. Recommender Systems
 
 **Concepts applied**
 1. Vectorize the code whenever possible - especially in ex7 (image compression and clustering). The difference in execution between non vectorized and vectorized was immense. Totally worth the time to implement the vectorized code! 
