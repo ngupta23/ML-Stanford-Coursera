@@ -23,4 +23,5 @@ The programs were written in Octave
 6. Debugging the model using learning curves - Diagnosing Bias vs. Variance
 7. Train/Cross Validation/Test set application
 8. Dimensionality Reduction - PCA (Principal Component Analysis)
+9. Kernels as applied to SVM
 
